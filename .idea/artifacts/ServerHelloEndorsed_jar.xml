@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerHelloEndorsed:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerHelloEndorsed_jar</output-path>
+    <root id="archive" name="ServerHelloEndorsed.jar">
+      <element id="module-output" name="ServerHelloEndorsed" />
+    </root>
+  </artifact>
+</component>
